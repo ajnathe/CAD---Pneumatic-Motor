@@ -19,7 +19,7 @@ This project is a SolidWorks design of a basic Pneumatic Motor system. It was my
 
 ## Final Assembly
 
-![Assembly View](Media/assembly_view.png)
+![Assembly View](FinalAssem.png)
 
 The main SolidWorks assembly file is located here:
 
