@@ -19,15 +19,19 @@ This project is a SolidWorks design of a basic Pneumatic Motor system. It was my
 
 ## Final Assembly
 
-![Assembly View](FinalAssem.png)
+![Assembly View](Assem.png)
 
 The main SolidWorks assembly file is located here:
 
-[Main Assembly File](CAD/Assembly/main_assembly.SLDASM)
+[Main Assembly File](Assem.SLDASM)
+
+Video of exploded view of assembly file:
+
+[Exploded View](AssemExploded.mp4)
 
 A universal CAD version is also included here:
 
-[STEP Assembly File](Exports/STEP/full_assembly.STEP)
+[STEP Assembly File](Assem.STEP)
 
 ---
 
@@ -35,11 +39,7 @@ A universal CAD version is also included here:
 
 The motion study shows how the assembly moves and functions.
 
-![Motion Study GIF](Media/motion_study.gif)
-
-A higher-quality video version is also included here:
-
-[Motion Study Video](Media/motion_study.mp4)
+![Motion Study GIF](Assem.mp4)
 
 ---
 
