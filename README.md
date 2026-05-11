@@ -4,8 +4,6 @@
 
 This project is a SolidWorks design of a basic Pneumatic Motor system. It was my final project for my Engineering Graphics class and demonstates most of the skills learned. The goal of this project was to design, model, assemble with correct mates, and document a mechanical system using SolidWorks. The project includes multiple part files, a full assembly, a motion study, and a schematic drawing.
 
-![Project Cover](Media/cover_image.png)
-
 ---
 
 ## Project Goals
